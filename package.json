@@ -1,8 +1,9 @@
 {
-  "scripts"{
-    "start": "node index.html"
-  },
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2"
+  },
+  "scripts"{
+    "start": "index.html"
   }
 }
